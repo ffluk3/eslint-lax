@@ -81,9 +81,15 @@ usage. For this use case, we can annotate the file:
 // eslint-lax maintenance:high
 ```
 
-## Pitfalls and Alternatives
+## Pitfalls
 
-TBD
+### Defining a Heuristic can be confusing for developers
+
+If a developer doesn't know why they are being restricted, then
+
+## Alternatives
+
+### Baselining
 
 ### Maintenance of this tool
 
